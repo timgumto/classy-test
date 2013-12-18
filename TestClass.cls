@@ -6,4 +6,8 @@
 */
 
 public class TestClass {
+    
+    public static method TestClass() {
+    }
+
 }
