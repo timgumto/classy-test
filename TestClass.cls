@@ -1,5 +1,6 @@
 /* 
  * a test class
+ * @author Tim Gumto
  *
 */
 
