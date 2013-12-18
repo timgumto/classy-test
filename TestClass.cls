@@ -7,7 +7,12 @@
 
 public class TestClass {
     
-    public static method TestClass() {
+    public static function TestClass() {
+    }
+
+    public String function TestString() {
+        String str = 'A test string';
+        return str;
     }
 
 }
